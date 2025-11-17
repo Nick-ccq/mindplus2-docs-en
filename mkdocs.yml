@@ -288,9 +288,9 @@ nav:
         - "&nbsp;&nbsp;&nbsp;&nbsp;MicroPython Block Mode Issues": FAQ/Coding/MicroPythonBlockMode/fix-micropython-not-found-error.md
     - 2. Model: FAQ/AITools/index.md
     - 3. View: FAQ/ViewDesign/index.md
-    - 4. Extensions: 
-      - FAQ/UserExtension/index.md
-      - "&nbsp;&nbsp;&nbsp;&nbsp;Unable to input link to load user library?": FAQ/UserExtension/how-to-use.md
+    # - 4. Extensions: 
+    #   - FAQ/UserExtension/index.md
+    #   - "&nbsp;&nbsp;&nbsp;&nbsp;Unable to input link to load user library?": FAQ/UserExtension/how-to-use.md
   # - 扩展库: Extensions/index.md
   # - 发现: https://mindplus.cc/discover.html
   # - Extensions: Extensions/index.md
